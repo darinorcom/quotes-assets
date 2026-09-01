@@ -1,0 +1,5 @@
+gold|day014|"The plan you keep polishing is just fear wearing a spreadsheet. Ship the rough version and let the market finish the edit."
+gold_ember_door|day015|"They rejected the version of you that no longer exists. Send the next email as the person the rejection was making."
+gold_horizon|day016|"You are not short on ideas. You are short on the twenty boring Tuesdays it takes to finish one."
+gold_silk_arc|day017|"Nobody sees the 4 a.m. drafts. That is exactly why the finished thing looks like magic to them."
+gold|day018|"Confidence is not feeling ready. It is evidence, stacked in a folder nobody else has seen."
