@@ -23,10 +23,15 @@ Brand assets in brand/: profile_gold_B.png (avatar), banner_final.png (1500x500 
 ## Content pillars
 | Pillar | % | Examples |
 |---|---|---|
-| Shipping & doing the work | 30% | Starting before ready, consistency, momentum |
-| Rejection & setbacks | 25% | Rejection math, failed launches, getting up |
-| Self-doubt & comparison | 25% | Everyone is winging it, your pace, quiet progress |
-| Identity of a builder | 20% | Who you become, proof over permission, taste |
+| Universal motivation | 50% | Self-worth, hard seasons, growth, perseverance — no builder jargon |
+| Shipping & doing the work | 20% | Starting before ready, consistency, momentum |
+| Rejection & setbacks | 15% | Rejection math, failed launches, getting up |
+| Identity of a builder | 15% | Who you become, proof over permission, taste |
+
+**Voice shift (Ferdy, 2026-09-03):** lean more general — NOT directly
+builder-focused. Launch batch (day001-013) was already universal; batch2/batch3
+drifted builder-jargon (ship, niche, drafts). New mix above: majority of quotes
+must land for ANY audience; the builder lens stays as flavor, not the filter.
 
 Format split: 80% typed quote cards (image), 20% plain-text one-liners (natively text posts, no image).
 Original phrasings only. No recycled famous quotes — they don't build identity and other accounts own them.

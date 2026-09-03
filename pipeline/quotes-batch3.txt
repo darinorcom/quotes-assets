@@ -1,0 +1,8 @@
+gold_ember_door|day020|"Motivation is weather. The builders are the ones who work in it."
+gold_horizon|day021|"Start before you feel ready. Ready is a rumor told by finished people."
+gold_silk_arc|day022|"The niche you are waiting to find is on the far side of shipping."
+gold|day023|"Consistency is not intensity. It is showing up on the days that should not count."
+gold_ember_door|day024|"You are allowed to be proud of yourself for things nobody else noticed."
+gold_horizon|day025|"Hard seasons do not ask permission to arrive. They do not ask permission to leave, either."
+gold_silk_arc|day026|"Everything you now do without thinking was once the thing you were afraid of."
+gold|day027|"Heavy is not the same as wrong. Heavy is what mattering feels like some days."
