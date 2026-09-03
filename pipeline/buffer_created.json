@@ -18,5 +18,25 @@
   "day018": {
     "dueAt": "2026-09-04T12:30:00+02:00",
     "result": "6a943809d076c0e5835c9784"
+  },
+  "day020": {
+    "dueAt": null,
+    "result": "6a997d4a37b8e68715cbbdfc",
+    "status": "draft awaiting approval"
+  },
+  "day021": {
+    "dueAt": null,
+    "result": "6a998300ed3a2df69e0b77ee",
+    "status": "draft awaiting approval"
+  },
+  "day022": {
+    "dueAt": null,
+    "result": "6a998302f61beac67602dd68",
+    "status": "draft awaiting approval"
+  },
+  "day023": {
+    "dueAt": null,
+    "result": "6a998303784ae840132ae79b",
+    "status": "draft awaiting approval"
   }
 }

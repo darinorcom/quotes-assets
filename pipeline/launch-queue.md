@@ -54,3 +54,21 @@ Images: cdn.jsdelivr.net/gh/darinorcom/quotes-assets@main/cards/batch2/<file>
 Cards + source quotes in ~/projects/quotes-x/batch2/. All 5 vision-checked; handle verified @buildwithscars.
 Queue now 5/10 after this batch (launch queue drained during week 1).
 
+## Batch 3 (created 2026-09-03, 4 posts as DRAFTS — awaiting Ferdy's approval, not scheduled)
+
+|| # | Buffer post id | Status | Card |
+|---|---|---|---|---|
+| 19 | 6a997d4a37b8e68715cbbdfc | draft | batch3/day020.png |
+| 20 | 6a998300ed3a2df69e0b77ee | draft | batch3/day021.png |
+| 21 | 6a998302f61beac67602dd68 | draft | batch3/day022.png |
+| 22 | 6a998303784ae840132ae79b | draft | batch3/day023.png |
+
+Quotes (all vision-checked word-for-word, curly-quote style, render_card.py over palettes/ backgrounds):
+- day020 (ember door): "Motivation is weather. The builders are the ones who work in it."
+- day021 (horizon): "Start before you feel ready. Ready is a rumor told by finished people."
+- day022 (silk arc): "The niche you are waiting to find is on the far side of shipping."
+- day023 (gold): "Consistency is not intensity. It is showing up on the days that should not count."
+
+When approved: schedule to the rotating slots (next free after day018 ends Sep 4 → Sep 5 08:40 onward).
+Note: day019 draft card (discipline quote) was NOT queued — same quote already published Sep 1.
+
