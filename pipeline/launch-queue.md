@@ -72,3 +72,18 @@ Quotes (all vision-checked word-for-word, curly-quote style, render_card.py over
 When approved: schedule to the rotating slots (next free after day018 ends Sep 4 → Sep 5 08:40 onward).
 Note: day019 draft card (discipline quote) was NOT queued — same quote already published Sep 1.
 
+### Batch 3b — general motivation (created 2026-09-03, drafts, per Ferdy's voice shift)
+
+|| # | Buffer post id | Status | Card |
+|---|---|---|---|---|
+| 23 | 6a998812043c1497661e5522 | draft | batch3/day024.png |
+| 24 | 6a998813ed3a2df69e0beb2b | draft | batch3/day025.png |
+| 25 | 6a998814a1a4ead9212d268d | draft | batch3/day026.png |
+| 26 | 6a998815043c1497661e5595 | draft | batch3/day027.png |
+
+Quotes (universal motivation — no builder jargon; sources in quotes-batch3.txt):
+- day024 (ember door): "You are allowed to be proud of yourself for things nobody else noticed."
+- day025 (horizon): "Hard seasons do not ask permission to arrive. They do not ask permission to leave, either."
+- day026 (silk arc): "Everything you now do without thinking was once the thing you were afraid of."
+- day027 (gold): "Heavy is not the same as wrong. Heavy is what mattering feels like some days."
+
