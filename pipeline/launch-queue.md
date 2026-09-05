@@ -72,14 +72,24 @@ Quotes (all vision-checked word-for-word, curly-quote style, render_card.py over
 When approved: schedule to the rotating slots (next free after day018 ends Sep 4 → Sep 5 08:40 onward).
 Note: day019 draft card (discipline quote) was NOT queued — same quote already published Sep 1.
 
-### Batch 3b — general motivation (created 2026-09-03, drafts, per Ferdy's voice shift)
+## Batch 4 — re-queue on new Bluesky channel (2026-09-05)
 
-|| # | Buffer post id | Status | Card |
+buildwithscars X channel was removed from Buffer; replaced by Bluesky channel
+"Buildwithscars" `6a9bd982065799be46921dc8`. The old day020-027 drafts died with
+that channel. Import backfilled 11 sent posts — day014/015/017/022/023/026
+quotes are now USED; skipped. Queued 4 unused cards, explicit customScheduled
+slots (rotation continues 08:40 → 12:30 → 17:10):
+
+|| # | Buffer post id | dueAt (CET) | Status | Card |
 |---|---|---|---|---|
-| 23 | 6a998812043c1497661e5522 | draft | batch3/day024.png |
-| 24 | 6a998813ed3a2df69e0beb2b | draft | batch3/day025.png |
-| 25 | 6a998814a1a4ead9212d268d | draft | batch3/day026.png |
-| 26 | 6a998815043c1497661e5595 | draft | batch3/day027.png |
+| 27 | 6a9bdab4b035e8a93231bb72 | 2026-09-05 17:10 | scheduled | batch3/day024.png |
+| 28 | 6a9bdab7b909ad6789bd52e5 | 2026-09-06 08:40 | scheduled | batch2/day018.png |
+| 29 | 6a9bdab7b035e8a93231bc41 | 2026-09-07 12:30 | scheduled | batch3/day025.png |
+| 30 | 6a9bdab9ec56e7c8ccce5b1d | 2026-09-08 17:10 | scheduled | batch3/day027.png |
+
+Images: cdn.jsdelivr.net/gh/darinorcom/quotes-assets@main/cards/... (all 4 verified
+HTTP 200 before queueing). All 4 cards vision-checked word-for-word.
+Unused cards remaining: day016, day020, day021.
 
 Quotes (universal motivation — no builder jargon; sources in quotes-batch3.txt):
 - day024 (ember door): "You are allowed to be proud of yourself for things nobody else noticed."

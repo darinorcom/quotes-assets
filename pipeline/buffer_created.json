@@ -16,8 +16,9 @@
     "result": "6a94380894904b3a23e95210"
   },
   "day018": {
-    "dueAt": "2026-09-04T12:30:00+02:00",
-    "result": "6a943809d076c0e5835c9784"
+    "dueAt": "2026-09-06T08:40:00+02:00",
+    "result": "6a9bdab7b909ad6789bd52e5",
+    "status": "scheduled on bluesky channel"
   },
   "day020": {
     "dueAt": null,
@@ -40,23 +41,23 @@
     "status": "draft awaiting approval"
   },
   "day024": {
-    "dueAt": null,
-    "result": "6a998812043c1497661e5522",
-    "status": "draft awaiting approval"
+    "dueAt": "2026-09-05T17:10:00+02:00",
+    "result": "6a9bdab4b035e8a93231bb72",
+    "status": "scheduled on bluesky channel"
   },
   "day025": {
-    "dueAt": null,
-    "result": "6a998813ed3a2df69e0beb2b",
-    "status": "draft awaiting approval"
+    "dueAt": "2026-09-07T12:30:00+02:00",
+    "result": "6a9bdab7b035e8a93231bc41",
+    "status": "scheduled on bluesky channel"
   },
   "day026": {
     "dueAt": null,
-    "result": "6a998814a1a4ead9212d268d",
-    "status": "draft awaiting approval"
+    "result": null,
+    "status": "skipped - quote already published (imported history on bluesky channel); old twitter draft dead"
   },
   "day027": {
-    "dueAt": null,
-    "result": "6a998815043c1497661e5595",
-    "status": "draft awaiting approval"
+    "dueAt": "2026-09-08T17:10:00+02:00",
+    "result": "6a9bdab9ec56e7c8ccce5b1d",
+    "status": "scheduled on bluesky channel"
   }
 }
