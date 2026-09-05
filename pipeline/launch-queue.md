@@ -82,7 +82,7 @@ slots (rotation continues 08:40 → 12:30 → 17:10):
 
 || # | Buffer post id | dueAt (CET) | Status | Card |
 |---|---|---|---|---|
-| 27 | 6a9bdab4b035e8a93231bb72 | 2026-09-05 17:10 | scheduled | batch3/day024.png |
+| 27 | 6a9bdab4b035e8a93231bb72 | 2026-09-05 17:10 | sent — published EARLY 11:03 (Buffer published on create, ignored same-day dueAt) | batch3/day024.png |
 | 28 | 6a9bdab7b909ad6789bd52e5 | 2026-09-06 08:40 | scheduled | batch2/day018.png |
 | 29 | 6a9bdab7b035e8a93231bc41 | 2026-09-07 12:30 | scheduled | batch3/day025.png |
 | 30 | 6a9bdab9ec56e7c8ccce5b1d | 2026-09-08 17:10 | scheduled | batch3/day027.png |
